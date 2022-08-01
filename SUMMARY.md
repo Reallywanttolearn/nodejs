@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pemrograman Dasar & Pemrograman Berorientasi object](README.md)
+* [Dasar JS dan OOP JS](README.md)
 
 ## 🤠 Pemrograman Dasar
 
