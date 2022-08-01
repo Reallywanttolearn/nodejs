@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: https://smayadikasoreang.sch.id/wp-content/uploads/2021/08/1.jpg
+coverY: -68.31617113850616
 ---
 
 # Materi Backend Node JS

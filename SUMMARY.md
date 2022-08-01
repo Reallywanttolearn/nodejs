@@ -2,10 +2,10 @@
 
 * [Materi Backend Node JS](README.md)
 
-## The Company
+## 🤠 Node JS
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Vision and Values](node-js/vision-and-values.md)
+* [Meet the Team!](node-js/meet-the-team.md)
 
 ## The Formal Stuff
 
