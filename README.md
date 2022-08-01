@@ -1,10 +1,11 @@
 ---
+description: materi untuk mapel DPPLG 1 kelas 10 RPL kurikulum Merdeka
 cover: https://smayadikasoreang.sch.id/wp-content/uploads/2021/08/1.jpg
 coverY: -68.31617113850616
 ---
 
-# Materi Backend Node JS
+# Pemrograman Dasar & Pemrograman Berorientasi object
 
 ## Oleh : Themas Febrianto, S.Kom
 
-materi backend untuk siswa RPL smk yadika soreang
+materi DPPLG untuk siswa RPL smk yadika soreang

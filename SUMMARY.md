@@ -1,13 +1,8 @@
 # Table of contents
 
-* [Materi Backend Node JS](README.md)
+* [Pemrograman Dasar & Pemrograman Berorientasi object](README.md)
 
-## 🤠 Node JS
+## 🤠 Pemrograman Dasar
 
-* [Vision and Values](node-js/vision-and-values.md)
-* [Meet the Team!](node-js/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Vision and Values](pemrograman-dasar/vision-and-values.md)
+* [Meet the Team!](pemrograman-dasar/meet-the-team.md)
