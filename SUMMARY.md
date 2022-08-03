@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Materi Dasar JS dan OOP JS](README.md)
-* [Apa itu Website](apa-itu-website.md)
 
 ## 😮 Dasar Algoritma
 
