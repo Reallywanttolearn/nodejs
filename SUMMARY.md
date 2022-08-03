@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Dasar JS dan OOP JS](README.md)
+* [Materi Dasar JS dan OOP JS](README.md)
 
-## 🤠 Pemrograman Dasar
+## 😮 Dasar Algoritma
 
-* [Vision and Values](pemrograman-dasar/vision-and-values.md)
-* [Meet the Team!](pemrograman-dasar/meet-the-team.md)
+* [Apa itu Algoritma ?](dasar-algoritma/vision-and-values.md)
+* [Meet the Team!](dasar-algoritma/meet-the-team.md)
