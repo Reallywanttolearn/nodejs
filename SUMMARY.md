@@ -5,4 +5,4 @@
 ## 😮 Dasar Algoritma
 
 * [Apa itu Algoritma ?](dasar-algoritma/vision-and-values.md)
-* [Meet the Team!](dasar-algoritma/meet-the-team.md)
+* [Bahasa Pemrograman Javascript](dasar-algoritma/meet-the-team.md)
