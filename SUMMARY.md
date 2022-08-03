@@ -2,7 +2,7 @@
 
 * [Materi Dasar JS dan OOP JS](README.md)
 
-## 😮 Dasar Algoritma
+## Dasar Algoritma
 
 * [Apa itu Algoritma ?](dasar-algoritma/vision-and-values.md)
 * [Apa itu bahasa Pemrograman](dasar-algoritma/meet-the-team.md)
