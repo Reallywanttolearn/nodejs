@@ -10,3 +10,5 @@ Situs statis adalah situs yang kontennya konstan atau jarang berubah. Biasanya, 
 
 Sebaliknya, situs web dinamis adalah web yang kontennya selalu berubah secara berkala. Pengelolaan situs web dinamis ini relatif mudah. Soalnya, web dinamis memungkinkan untuk memiliki beberapa _user_ melakukan _update_ konten tanpa mengubah desain web.
 
+![perbedaan website statis dan dinamis](https://infodigimarket.com/wp-content/uploads/2018/04/featured023.jpg)
+
