@@ -19,3 +19,4 @@
 * [Cara membuat Kode JavaScript](dasar-javascript/cara-membuat-kode-javascript.md)
 * [Komentar](dasar-javascript/komentar.md)
 * [Tipe Data](dasar-javascript/tipe-data.md)
+* [Variable](dasar-javascript/variable.md)
