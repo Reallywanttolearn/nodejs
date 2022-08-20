@@ -1,4 +1,4 @@
-# Variable
+# Variable Javascript
 
 ### Variable adalah tempat untuk menyimpan data
 

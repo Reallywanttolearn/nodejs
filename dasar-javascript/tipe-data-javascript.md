@@ -1,4 +1,4 @@
-# Tipe Data
+# Tipe Data Javascript
 
 Data types atau tipe data adalah sebuah pengklasifikasian data berdasarkan jenis data tersebut. Tipe data dibutuhkan agar kompiler dapat mengetahui bagaimana sebuah data akan digunakan. Untuk mengembangkan sebuah program, ada beberapa tipe data yang akan kita pelajari. Di antaranya adalah Numbers, Booleans dan String
 
