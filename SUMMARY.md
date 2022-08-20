@@ -20,3 +20,4 @@
 * [Komentar](dasar-javascript/komentar.md)
 * [Tipe Data](dasar-javascript/tipe-data.md)
 * [Variable](dasar-javascript/variable.md)
+* [Page 1](dasar-javascript/page-1.md)
