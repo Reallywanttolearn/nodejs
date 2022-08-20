@@ -72,15 +72,15 @@ Operator logika adalah operator untuk dua buah data boolean Hasil dari operator 
 
 > Table kebenaran And
 >
-> ![](<../.gitbook/assets/image (2).png>)
+> ![](../.gitbook/assets/image.png)
 
 > Table kebenaran Or
 >
-> ![](../.gitbook/assets/image.png)
+> ![](<../.gitbook/assets/image (1).png>)
 
 > Table kebenaran Not
 >
-> ![](<../.gitbook/assets/image (1).png>)
+> ![](<../.gitbook/assets/image (2).png>)
 >
 >
 

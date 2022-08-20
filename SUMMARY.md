@@ -23,3 +23,4 @@
 * [Operator Javascript](dasar-javascript/operator-javascript.md)
 * [String Template](dasar-javascript/string-template.md)
 * [Tipe Data Array](dasar-javascript/tipe-data-array.md)
+* [Tipe Data Object](dasar-javascript/tipe-data-object.md)
