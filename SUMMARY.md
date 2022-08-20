@@ -17,4 +17,5 @@
 * [Sejarah JavaScript](dasar-javascript/sejarah-javascript.md)
 * [Aplikasi untuk Development di PC dan mobile](dasar-javascript/aplikasi-untuk-development-di-pc-dan-mobile.md)
 * [Cara membuat Kode JavaScript](dasar-javascript/cara-membuat-kode-javascript.md)
-* [Page 1](dasar-javascript/page-1.md)
+* [Komentar](dasar-javascript/komentar.md)
+* [Tipe Data](dasar-javascript/tipe-data.md)
