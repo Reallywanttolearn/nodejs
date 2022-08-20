@@ -12,6 +12,7 @@
 
 ## Dasar Javascript
 
-* [Apa itu Algoritma ?](dasar-javascript/vision-and-values.md)
-* [Apa itu bahasa Pemrograman](dasar-javascript/meet-the-team.md)
+* [Apa itu Algoritma ?](dasar-algoritma/vision-and-values.md)
+* [Apa itu bahasa Pemrograman](dasar-algoritma/meet-the-team.md)
 * [Sejarah JavaScript](dasar-javascript/sejarah-javascript.md)
+* [Aplikasi untuk Development di komputer dan andorid](dasar-javascript/aplikasi-untuk-development-di-komputer-dan-andorid.md)
