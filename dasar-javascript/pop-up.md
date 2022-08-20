@@ -1,4 +1,4 @@
-# Popup
+# Pop Up
 
 ## **Alert, Prompt dan Confirm**
 

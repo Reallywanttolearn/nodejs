@@ -37,4 +37,18 @@
 
 ![](https://lh3.googleusercontent.com/dOxhXkOgbG65xuQ2Q9E17ZZJCBo-RdttwE1IOi81CZkC6y5rZ4H789uBuw\_M8Og\_2TUOaGOgqzgs6dYEy2lArXou-9JWXUqmxqUj7mtAJBOzaAA364CkNE37ZkjoT0q80g32G4881sy3Xilw3FR\_OQ)
 
+### **Ternary Operator**
+
+Ternary operator adalah operator sederhana dari if statement
+
+Ternary operator terdiri dari kondisi yang dievaluasi, jika menghasilkan true maka nilai pertama diambil, jika false, maka nilai kedua diambil
+
+**Kode : Tanpa Ternary Operator**
+
+![](https://lh6.googleusercontent.com/pxhxCM0yvKM53loS6UnC\_SYy-7UUUnWlhlijA8GGEyQ21A4kRf1fhqm-VvFecZWlB-n-mKoJdC4O4xHow\_WkkTHfI3ZxVEOYHuheeKT8oOlO8NdikWmC8-ghrs7adSWcgrcj5fozP5\_uVxY90o1iJg)
+
+**Kode : Dengan Ternary Operator**
+
+![](https://lh5.googleusercontent.com/ElKYQAXFR4\_xbe1P-k9zqkqnAHA\_DBi9b9o9y9yAT09tt5p1dXH3Uvemnt6rtaHaO5nSF3EE3pEdAMoSQj\_SY5nJSYUt43Oy8yFFI\_BRbJtjvQm9aV6XxX1zFEcVUpMw1d3jNxnpFIYFco-\_KY3maQ)
+
 ****
