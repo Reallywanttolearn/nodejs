@@ -16,7 +16,7 @@ Awalnya JavaScript memang kebanyakan di gunakan untuk berjalan di client side (B
 
 Karena JavaScript sekarang hampir di adopsi oleh sebua aplikasi browser, akhirnya dibuatlah sebuah standarisasi yang bernama ECMAScript Organisasi yang melakukan standarisasi ECMAScript adalah ECMA International Sekarang dengan adanya standarisasi, kita bisa pastikan bahwa kode program JavaScript kita bisa jalan di semua browser, karena browser yang ingin mendukung JavaScript, harus mengikuti standarisasi ECMAScript Sekarang karena ECMAScript dan JavaScript sama, sekarang bisa dibilang ECMAScript dan JavaScript adalah dua nama untuk satu bahasa pemrograman yang sama
 
-Daftar Pustaka : Eko Kurniawan Khannedy (2022) Mahir Javascript Online at [https://kelas.programmerzamannow.com/p/pemrograman-javascript-untuk-pemula-sampai-mahir](https://kelas.programmerzamannow.com/p/pemrograman-javascript-untuk-pemula-sampai-mahir)
+Daftar Pustaka : Eko Kurniawan Khannedy (2022) Mahir Javascript Online at [https://www.programmerzamannow.com/](https://www.programmerzamannow.com/)
 
 {% embed url="https://www.ecma-international.org/" %}
 

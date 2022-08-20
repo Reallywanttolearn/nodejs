@@ -24,3 +24,5 @@
 * [String Template](dasar-javascript/string-template.md)
 * [Tipe Data Array](dasar-javascript/tipe-data-array.md)
 * [Tipe Data Object](dasar-javascript/tipe-data-object.md)
+* [Control Flow Javascript](dasar-javascript/control-flow-javascript.md)
+* [Popup](dasar-javascript/popup.md)
