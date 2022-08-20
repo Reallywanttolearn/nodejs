@@ -20,14 +20,14 @@ Saat kita belajar JavaScript, kita perlu menyiapkan beberapa perangkat lunak unt
 
 {% embed url="https://play.google.com/store/search?c=apps&gl=US&hl=in&q=mozilla+firefox" %}
 
-Text Editor PC
+### Text Editor PC
 
 {% embed url="https://code.visualstudio.com/download" %}
 
-Text Editor Mobile Android
+### Text Editor Mobile Android
 
 {% embed url="https://play.google.com/store/apps/details?gl=US&hl=in&id=com.teejay.trebedit" %}
 
-Text Editor Mobile IOS
+### Text Editor Mobile IOS
 
 {% embed url="https://apps.apple.com/us/app/koder-code-editor/id1447489375" %}

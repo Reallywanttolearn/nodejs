@@ -53,3 +53,33 @@ JavaScript mendukung banyak sekali operator Matematika untuk tipe data Number, s
 | **===**  | **Sama Dengan dan Sama Tipe**              |
 | **!=**   | **Tidak Sama Dengan**                      |
 | **!==**  | **Tidak Sama Dengan atau Tidak Sama Tipe** |
+
+**Kode : Operasi Perbandingan**
+
+![](https://lh4.googleusercontent.com/6yv3D6UdgT7XghTfy6nlE1kO8eKkSizJf\_gbv9UDhI1aBvwhhyxZ0Hny7ucAGh89yrsNYUPjq7LDxG1Ix5iAZsm7Ij9T48XfIcajlVZkKzHP5tTDft4Wa5wo38XTJZkhUQG46eNBQPHWu5HEQwSabw)
+
+## **Operator Logika**
+
+Operator logika adalah operator untuk dua buah data boolean Hasil dari operator logika adalah boolean lagi
+
+**Operator Logika**
+
+| Operator | Keterangan |
+| -------- | ---------- |
+| **&&**   | And        |
+| **\|\|** | Or         |
+| **!**    | Not        |
+
+> Table kebenaran And
+>
+> ![](../.gitbook/assets/image.png)
+
+> Table kebenaran Or
+>
+> ![](<../.gitbook/assets/image (2).png>)
+
+> Table kebenaran Not
+>
+> ![](<../.gitbook/assets/image (1).png>)
+>
+>
