@@ -1,7 +1,7 @@
 ---
 cover: >-
   https://jldwiana.files.wordpress.com/2019/01/sejarah-dan-perkembangan-javascript-1140x608-2.png
-coverY: 28.283406754772397
+coverY: 29.947136563876654
 ---
 
 # Sejarah JavaScript
