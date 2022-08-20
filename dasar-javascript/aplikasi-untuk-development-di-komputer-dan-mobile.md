@@ -1,4 +1,4 @@
-# Aplikasi untuk Development di komputer dan andorid
+# Aplikasi untuk Development di komputer dan mobile
 
 Saat kita belajar JavaScript, kita perlu menyiapkan beberapa perangkat lunak untuk membantu development
 
@@ -6,9 +6,16 @@ Saat kita belajar JavaScript, kita perlu menyiapkan beberapa perangkat lunak unt
 2. Text Editor atau Integrated Development Environment, ini digunakan untuk membuat kode program JavaScript\
 
 
-### **Browser**
+### **Browser komputer**
+
+****
 
 {% embed url="https://www.google.com/chrome/" %}
 
 {% embed url="https://www.mozilla.org/firefox/" %}
 
+### **Browser mobile**
+
+{% embed url="https://play.google.com/store/apps/details?gl=US&hl=in&id=com.android.chrome" %}
+
+{% embed url="https://play.google.com/store/search?c=apps&gl=US&hl=in&q=mozilla+firefox" %}
