@@ -15,4 +15,4 @@
 * [Apa itu Algoritma ?](dasar-algoritma/vision-and-values.md)
 * [Apa itu bahasa Pemrograman](dasar-algoritma/meet-the-team.md)
 * [Sejarah JavaScript](dasar-javascript/sejarah-javascript.md)
-* [Aplikasi untuk Development di komputer dan mobile](dasar-javascript/aplikasi-untuk-development-di-komputer-dan-mobile.md)
+* [Aplikasi untuk Development di PC dan mobile](dasar-javascript/aplikasi-untuk-development-di-pc-dan-mobile.md)

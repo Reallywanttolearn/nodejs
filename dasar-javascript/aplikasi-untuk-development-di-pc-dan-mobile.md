@@ -1,4 +1,4 @@
-# Aplikasi untuk Development di komputer dan mobile
+# Aplikasi untuk Development di PC dan mobile
 
 Saat kita belajar JavaScript, kita perlu menyiapkan beberapa perangkat lunak untuk membantu development
 
@@ -6,7 +6,7 @@ Saat kita belajar JavaScript, kita perlu menyiapkan beberapa perangkat lunak unt
 2. Text Editor atau Integrated Development Environment, ini digunakan untuk membuat kode program JavaScript\
 
 
-### **Browser komputer**
+### **Browser PC**
 
 ****
 
@@ -19,3 +19,15 @@ Saat kita belajar JavaScript, kita perlu menyiapkan beberapa perangkat lunak unt
 {% embed url="https://play.google.com/store/apps/details?gl=US&hl=in&id=com.android.chrome" %}
 
 {% embed url="https://play.google.com/store/search?c=apps&gl=US&hl=in&q=mozilla+firefox" %}
+
+Text Editor PC
+
+{% embed url="https://code.visualstudio.com/download" %}
+
+Text Editor Mobile Android
+
+{% embed url="https://play.google.com/store/apps/details?gl=US&hl=in&id=com.teejay.trebedit" %}
+
+Text Editor Mobile IOS
+
+{% embed url="https://apps.apple.com/us/app/koder-code-editor/id1447489375" %}
