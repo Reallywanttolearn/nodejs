@@ -10,6 +10,8 @@
 
 ![](https://lh6.googleusercontent.com/uVjG2ZMAQxXeMGxoGDb2irfoRFGhP1gBe0eUIuJE4MkPKhxOf\_j09vKhYo1mcLRFCukvdxS\_Oc-c8vGnfnSJRcjc84R3hUvxoYgRouN5OYuwcaEA8FzTJvhT5YqNgRM4EnK\_LzpZ57IBogjRaqXimg)
 
+{% hint style="info" %}
 ### **Titik Koma**
 
 JavaScript mirip seperti bahasa pemrograman C/C++, dimana di akhir tiap statement kode program, kita perlu menambahkan ; (titik koma) Namun, di JavaScript tanda ; (titik koma) tidak wajib, jadi kita bisa menambahkan ataupun tidak. Sangat disarankan konsisten, jika ingin menggunakan titik koma, gunakan disemua tempat, jika tidak, jangan gunakan di semua tempat
+{% endhint %}
