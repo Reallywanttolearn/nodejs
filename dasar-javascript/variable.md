@@ -1,6 +1,6 @@
 # Variable
 
-Variable adalah tempat untuk menyimpan data
+### Variable adalah tempat untuk menyimpan data
 
 {% hint style="info" %}
 Dengan menyimpan data di variable, kita bisa menggunakannya lagi dengan menyebutkan nama variable nya
