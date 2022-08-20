@@ -1,6 +1,6 @@
 # Control Flow Javascript
 
-### **If Expression**
+## **If Expression**
 
 1. Dalam JavaScript, if adalah salah satu kata kunci yang digunakan untuk percabangan
 2. Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi
@@ -26,3 +26,15 @@
 **Kode : Else If Expression**
 
 ![](https://lh3.googleusercontent.com/Pus7zvz2s9b7p4LSG1yA08X3mEvvL\_Dji0QAcdLXayIxozT9rpKnaEirqx8JB-SFj8tsb1LmmgSkKVASaVVKsJSgACfr5A95HaKdFJ5NF254EghonC-Fi7-wcKXiA4UQbzu9NxM9PLDe7vHg0tuC\_Q)
+
+## **Switch Statement**
+
+1. Switch adalah statement percabangan yang sama dengan if, namun  lebih sederhana cara pembuatannya
+2. Kadang kita hanya butuh menggunakan kondisi sederhana di if statement, seperti hanya menggunakan perbandingan ==
+3. Kondisi di switch statement hanya untuk perbandingan ==
+
+**Kode : Switch Statement**
+
+![](https://lh3.googleusercontent.com/dOxhXkOgbG65xuQ2Q9E17ZZJCBo-RdttwE1IOi81CZkC6y5rZ4H789uBuw\_M8Og\_2TUOaGOgqzgs6dYEy2lArXou-9JWXUqmxqUj7mtAJBOzaAA364CkNE37ZkjoT0q80g32G4881sy3Xilw3FR\_OQ)
+
+****
