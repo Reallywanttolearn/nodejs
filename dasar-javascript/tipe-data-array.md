@@ -23,3 +23,31 @@ Array di JavaScript memiliki sifat dinamis, artinya datanya bisa bertambah denga
 **Cara Kerja Array**
 
 ![](https://lh5.googleusercontent.com/z1mFvj9NOtrvLJoTGFMFEf6WOskqdD4Yl0T2C6Vn\_TIMumFaYQs9zXbkOY710kWSAg8VJ1RTsBPfW5\_IupInvH\_w1nVtvDzHqgTmC6SB7m\_CBdpsu4wMnsDoiGFUVUpfR7EZ8XvSOvpsQBPDh3AP-g)
+
+**Kode : Menambah Array**
+
+![](https://lh4.googleusercontent.com/pmMhPVA4mQVM7p\_esuY7y88gtLuXsPFHzRU8JS6OmuqhOGyqR7QMCRmNZxVueqpjYmHrqzC5vKMYOXoZt-hKt0Rr9-O33nbNH2aK1uTVLA-0tB7pdJuYViCsMpdI9VVrPdieu4V03iYjckzHNLSnYA)
+
+### **Operasi di Array**
+
+| Operasi                   | Keterangan                                                     |
+| ------------------------- | -------------------------------------------------------------- |
+| **array.push(value)**     | **Menambah data ke Array**                                     |
+| **array.length**          | **Untuk mendapatkan panjang Array**                            |
+| **array\[index]**         | **Mendapat data di posisi index**                              |
+| **array\[index] = value** | **Mengubah data di posisi index**                              |
+| **delete array\[index]**  | **Menghapus data di posisi index, namun index tidak bergeser** |
+
+**Kode : Operasi di Array**
+
+![](https://lh3.googleusercontent.com/qdPI8gZ7ekX0Me0E7onyUs-WIGI6uDolqA21BdzHSxa\_EDa4BYCmxmL9Cg5idw5qMfqefkdOB-FJJU8rJRYi\_mlPtA9czliJt8kfes9F4tYgssVxFzW9GOWk0e6pJ\_ecX2RRORzDmB9EO0owONclUg)
+
+{% hint style="warning" %}
+**Perlu Diingat**
+
+Data di dalam Array tidak ada batasannya harus data apa
+
+Jadi kita bisa memasukkan data apapun ke dalam Array
+
+Bahkan kita juga bisa memasukkan Array ke dalam Array jika kita mau
+{% endhint %}
