@@ -18,6 +18,7 @@
 * [Aplikasi untuk Development di PC dan mobile](dasar-javascript/aplikasi-untuk-development-di-pc-dan-mobile.md)
 * [Cara membuat Kode JavaScript](dasar-javascript/cara-membuat-kode-javascript.md)
 * [Komentar](dasar-javascript/komentar.md)
+* [Console](dasar-javascript/console.md)
 * [Tipe Data](dasar-javascript/tipe-data.md)
 * [Variable ](dasar-javascript/variable.md)
 * [Operator ](dasar-javascript/operator.md)
