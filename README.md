@@ -18,6 +18,10 @@ untuk kelas X RPL
 [Javascript Fundamental](https://app.gitbook.com/s/V4kmKh5pDVTGvLmp5LAo/)
 {% endcontent-ref %}
 
+{% content-ref url="https://app.gitbook.com/s/acf87s2xzC0ZiqGRIzZs/" %}
+[Javascript Function](https://app.gitbook.com/s/acf87s2xzC0ZiqGRIzZs/)
+{% endcontent-ref %}
+
 {% content-ref url="https://app.gitbook.com/s/7KQwkbSWqbYDt0b8KNMQ/" %}
 [Javascript DOM](https://app.gitbook.com/s/7KQwkbSWqbYDt0b8KNMQ/)
 {% endcontent-ref %}
