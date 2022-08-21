@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Materi Dasar JS dan OOP JS](README.md)
+* [Materi Dasar Javascript](README.md)
 
 ## Dasar Website
 
