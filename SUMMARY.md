@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Materi Dasar Javascript](README.md)
+* [Link](README.md)
 
 ## Dasar Website
 
